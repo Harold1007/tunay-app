@@ -25,3 +25,4 @@ To build a transparent, community-first platform where utility and culture grow 
 - Website: (to be added)
 
 > This project is evolving. Contributions and feedback are welcome.
+Initialize Tunay memecoin repository
